@@ -90,8 +90,7 @@ To design and build an **interactive Streamlit application** that:
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/shubhkalaria/NexGen-Logistics-Innovation.git
-cd NexGen-Logistics-Innovation
+git clone https://github.com/ShubH9604/NexGen-Logistics-Innovation.git
 
 # 2. Create a virtual environment
 python3 -m venv venv
